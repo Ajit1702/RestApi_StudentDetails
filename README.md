@@ -26,9 +26,9 @@ This project is a Spring Boot application that provides CRUD operations for mana
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/Ajit1702/RestApi_StudentDetails.git`
-2. Navigate to the project directory: `cd your-repository`
+2. Navigate to the project directory: `cd SpringDataBase`
 3. Build the project: `mvn clean install`
-4. Run the application: `java -jar target/your-application.jar`
+4. Run the application: `java -jar target/SpringDataBase.jar`
 
 ## Usage
 
